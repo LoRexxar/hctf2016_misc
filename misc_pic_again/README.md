@@ -1,0 +1,3 @@
+# wp
+
+题目并不难，lsb在RGB最低位藏了一个zip，根据pk头就可以知道是zip，为了不能直接strings获得flag，所以我把flag放进了一个bin里，linux一跑就好了
